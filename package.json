@@ -1,10 +1,8 @@
 {
   "name": "precommit-jack",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Commit code? Ask Jack first",
-  "bin": {
-    "precommit-jack": "index.js"
-  },
+  "bin": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/boczeratul/precommit-jack.git"

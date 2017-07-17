@@ -1,1 +1,5 @@
-console.log('This is Jack');
+#!/usr/bin/env node
+
+"use strict"
+
+require("./lib")
